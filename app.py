@@ -63,4 +63,4 @@ if st.button("Analyze Resume"):
         • Keep resume concise and role-focused  
         """)
 
-        st.info("🔍 This system uses Machine Learning (TF-IDF & Cosine Similarity)")
+        
